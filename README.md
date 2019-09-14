@@ -48,7 +48,6 @@
 实际效果如下：	![more](image2/more.PNG)
 
 
-![go version](image2/go version.PNG)
 
 ## 3.设置环境变量
 
