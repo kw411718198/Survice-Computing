@@ -203,7 +203,7 @@ CLI（Command Line Interface）实用程序是Linux下应用开发的基础。�
 
 ​	测试1：
 
-​	![测试1](image3\测试1.PNG)
+​	![测试1](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%951.PNG)
 
 ​	测试2：
 
