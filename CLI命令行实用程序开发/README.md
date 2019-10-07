@@ -202,28 +202,28 @@ CLI（Command Line Interface）实用程序是Linux下应用开发的基础。�
 
 ​	测试1：
 
-​	![测试1](\image3\测试1.PNG)
+​	![测试1](image3\测试1.PNG)
 
 ​	测试2：
 
-​	![测试2](\image3\测试2.PNG)
+​	![测试2](image3\测试2.PNG)
 
 ​	测试3：
 
-​	![测试3](\image3\测试3.PNG)
+​	![测试3](image3\测试3.PNG)
 
 ​	测试4：
 
-​	![测试4](\image3\测试4.PNG)
+​	![测试4](image3\测试4.PNG)
 
 ​	测试5：
 
-​	![测试5](\image3\测试5.PNG)
+​	![测试5](image3\测试5.PNG)
 
 ​	测试6：
 
-​	![测试6](\image3\测试6.PNG)
+​	![测试6](image3\测试6.PNG)
 
 ​	测试7：
 
-​	![测试7](\image3\测试7.PNG)
+​	![测试7](image3\测试7.PNG)
