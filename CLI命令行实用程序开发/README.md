@@ -207,24 +207,24 @@ CLI（Command Line Interface）实用程序是Linux下应用开发的基础。�
 
 ​	测试2：
 
-​	![测试2](image3\测试2.PNG)
+​	![测试2](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%952.PNG)
 
 ​	测试3：
 
-​	![测试3](image3\测试3.PNG)
+​	![测试3](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%953.PNG)
 
 ​	测试4：
 
-​	![测试4](image3\测试4.PNG)
+​	![测试4](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%954.PNG)
 
 ​	测试5：
 
-​	![测试5](image3\测试5.PNG)
+​	![测试5](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%955.PNG)
 
 ​	测试6：
 
-​	![测试6](image3\测试6.PNG)
+​	![测试6](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%956.PNG)
 
 ​	测试7：
 
-​	![测试7](image3\测试7.PNG)
+​	![测试7](https://github.com/kw411718198/Survice-Computing/blob/master/CLI%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91/image3/%E6%B5%8B%E8%AF%957.PNG)
