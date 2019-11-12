@@ -98,17 +98,17 @@
 808并发的情况下共测试访问localhost:9090 9090次，测试结果如下:
 	![在这里插入图片描述](https://img-blog.csdnimg.cn/20191112103737203.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2t3NDExNzE4MTk4,size_16,color_FFFFFF,t_70)
 	重要参数解释如下：
-	Server Hostname:服务器的主页名为localhost
-	Server Port:服务器的端口号为9090
-	Document Path:服务器所在的文件路径
-	Document Length: 请求文档大小为25bytes
-	Concurrency Level:并发数为808
-	Time taken for tests:全部请求完成耗时2.454s
-	Complete requests: 全部请求数为9090
-	Failed requests: 失败的请求为0
-	Total transferred:总传输大小为1290780bytes
-	HTML transferred:整个场景中的HTML内容传输量
-	Requests per second:每秒请求数(平均）
-	Time per request: 每次并发请求时间(所有并发) 
+	Server Hostname:服务器的主页名为localhost  
+	Server Port:服务器的端口号为9090  
+	Document Path:服务器所在的文件路径  
+	Document Length: 请求文档大小为25bytes  
+	Concurrency Level:并发数为808  
+	Time taken for tests:全部请求完成耗时2.454s  
+	Complete requests: 全部请求数为9090  
+	Failed requests: 失败的请求为0  
+	Total transferred:总传输大小为1290780bytes  
+	HTML transferred:整个场景中的HTML内容传输量  
+	Requests per second:每秒请求数(平均）  
+	Time per request: 每次并发请求时间(所有并发)   
 	Time per request:每一请求时间(并发平均)  
 	Transfer rate: 传输速率
