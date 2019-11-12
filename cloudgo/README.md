@@ -97,7 +97,7 @@
 ```
 808并发的情况下共测试访问localhost:9090 9090次，测试结果如下:
 	![在这里插入图片描述](https://img-blog.csdnimg.cn/20191112103737203.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2t3NDExNzE4MTk4,size_16,color_FFFFFF,t_70)
-	重要参数解释如下：
+	重要参数解释如下：  
 	Server Hostname:服务器的主页名为localhost  
 	Server Port:服务器的端口号为9090  
 	Document Path:服务器所在的文件路径  
